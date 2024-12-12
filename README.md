@@ -2,6 +2,11 @@
 
 An automated bot for claiming rewards and watching videos on W3BFLIX platform.
 
+## 🔗 Join W3BFLIX
+
+Join using our referral link to get started:
+- 🎁 [Join W3BFLIX](https://t.me/W3BFLIXBot?start=iv8114cb84a0)
+
 ## 📱 Contact & Support
 
 Join our Telegram channel for updates and support:
@@ -28,7 +33,7 @@ Join our Telegram channel for updates and support:
 3. **Clone the Repository**
    ```bash
    git clone https://github.com/fl3xxrichie/w3bflix.git
-   cd w3bflix-auto-claimer
+   cd w3bflix
    ```
 
 4. **Install Dependencies**
