@@ -28,7 +28,7 @@ Join our Telegram channel for updates and support:
 3. **Clone the Repository**
    ```bash
    git clone https://github.com/fl3xxrichie/w3bflix.git
-   cd w3bflix-auto-claimer
+   cd w3bflix
    ```
 
 4. **Install Dependencies**
